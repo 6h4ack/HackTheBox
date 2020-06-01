@@ -1,7 +1,7 @@
 # HackTheBox
 Writeups máquinas Hack The Box
 
-Las máquinas activas aparecen protegidas con contraseña:
+Las máquinas activas aparecen protegidas con contraseña. </br>
 En máquinas linux, la contraseña será el hash de root del fichero /etc/shadow
 
 Ejemplo:
